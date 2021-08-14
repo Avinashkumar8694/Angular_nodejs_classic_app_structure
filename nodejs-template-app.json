@@ -1,0 +1,13 @@
+{
+    "displayName": "nodejs-template-app",
+    "appName": "nodejs-template-app",
+    "description": "nodejs-template-app",
+    "lastModified": "2021-08-14T16:12:11.372Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "apiOnly",
+    "templateName": "blank",
+    "createDate": "2021-08-14T16:12:11.175Z",
+    "analyticsId": "858be47b-b06d-efbb-09c8-5cf0166ef3a7",
+    "createdStudioVersion": "8.0.0-alpha.7"
+}

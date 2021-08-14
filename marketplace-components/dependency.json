@@ -1,0 +1,68 @@
+{
+    "packages": [
+        {
+            "name": "neutrinos-all-default-nodes-plugin",
+            "default": true,
+            "visible": false,
+            "dependencies": [
+                {
+                    "name": "ndefault-all-nodes",
+                    "packageType": "studio-nodes",
+                    "nodes": {
+                        "server": [
+                            "ChildProcess",
+                            "CORS",
+                            "DBConfig",
+                            "GlobalMiddlewareEnd",
+                            "GlobalMiddlewareStart",
+                            "GlobalNext",
+                            "HttpIn",
+                            "HttpOut",
+                            "HttpProxyConfig",
+                            "ServerHttpRequest",
+                            "MiddlewareEnd",
+                            "MiddlewareStart",
+                            "Next",
+                            "RouteMiddlewareEnd",
+                            "RouteMiddlewareStart",
+                            "ServerLog",
+                            "TLSConfig"
+                        ],
+                        "common": [
+                            "Catch",
+                            "Comments",
+                            "Script",
+                            "Unknown"
+                        ],
+                        "pages": [
+                            "PageCallService",
+                            "PageStart",
+                            "PageSwitch",
+                            "ViewPicker",
+                            "PageVariables",
+                            "PageServiceVariables",
+                            "PageAsync"
+                        ],
+                        "client-server": [
+                            "ServiceVariables",
+                            "CallService",
+                            "Start",
+                            "Switch",
+                            "Async"
+                        ],
+                        "client-pages": [
+                            "Environment",
+                            "HttpRequest",
+                            "Log",
+                            "Navigation",
+                            "SnackBar",
+                            "Storage",
+                            "CallSSDApi",
+                            "UseDependency"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
