@@ -1,1 +1,1 @@
-# Angular_nodejs_classic_app_structure
+# nodejs_app_structure
